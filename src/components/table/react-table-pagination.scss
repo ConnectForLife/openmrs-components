@@ -1,0 +1,18 @@
+.-pagination {
+
+  .-center-pagination {
+    flex: 2.5 !important;
+  }
+
+  .-first, .-last {
+    flex: 1;
+    text-align: center;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .-previous, .-next {
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+}
